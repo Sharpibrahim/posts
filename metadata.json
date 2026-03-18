@@ -1,0 +1,5 @@
+{
+  "name": "PostMaster",
+  "description": "A platform to create, manage, and share posts with real-time updates.",
+  "requestFramePermissions": []
+}
